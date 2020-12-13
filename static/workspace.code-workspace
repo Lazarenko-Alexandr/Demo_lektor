@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../content"
+		},
+		{
+			"path": "../../models"
+		},
+		{
+			"path": "../../templates"
+		}
+	]
+}
